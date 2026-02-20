@@ -16,4 +16,4 @@ With Forkify, you can bookmark your favorite dishes, adjust ingredient quantitie
 
 ## 🔗 Live Demo
 
-[Try the Task Manager here](https://forktify-app.netlify.app/)
+[Try the forkify app here](https://forktify-app.netlify.app/)
