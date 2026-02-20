@@ -13,3 +13,7 @@ Responsive design – optimized for both desktop and mobile experiences
 Modern JavaScript features – ES6 modules, async/await, MVC architecture
 
 With Forkify, you can bookmark your favorite dishes, adjust ingredient quantities based on servings, and contribute your own recipes to the app. It's not just a coding exercise—it's a fully functiona; recipe manager that demonstrates how to build scalable, interactive web application from scratch.
+
+## 🔗 Live Demo
+
+[Try the Task Manager here](https://forktify-app.netlify.app/)
